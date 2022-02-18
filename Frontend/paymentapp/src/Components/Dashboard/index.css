@@ -1,0 +1,24 @@
+.cardcss{
+    padding: 15px;
+    padding-right: 15px;
+}
+.paginatecss{
+    display: flex;
+}
+.paginatecss a{
+    text-decoration: none;
+}
+.paginatecss li{
+    list-style: none;
+    margin:20px
+}
+img.hover-zoom:hover {
+    transform: scale(1.25);
+  }
+ .dropdowncss{
+    margin-top:12px;
+    width: 170px;
+ } 
+.activediv{
+    border-bottom: 2px solid black;
+ }

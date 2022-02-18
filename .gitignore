@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+Backend/node_modules
+# dependencies
+Frontend/paymentapp/node_modules
+Frontend/paymentapp/.pnp
+Frontend/paymentapp/.pnp.js
+
+# testing
+Frontend/paymentapp/coverage
+
+# production
+Frontend/paymentapp/build
+
+# misc
+Frontend/paymentapp/.DS_Store
+Frontend/paymentapp/.env.local
+Frontend/paymentapp/.env.development.local
+Frontend/paymentapp/.env.test.local
+Frontend/paymentapp/.env.production.local
+
+Frontend/paymentapp/npm-debug.log*
+Frontend/paymentapp/yarn-debug.log*
+Frontend/paymentapp/yarn-error.log*
